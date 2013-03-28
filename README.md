@@ -1,4 +1,5 @@
 autoconf_cuda
 =============
 
-startup projects with cuda 5.0
+autoconf startup project with cuda 5.0
+For cuda 5.0, only lib and inclue options is needed.
